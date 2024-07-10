@@ -1,6 +1,6 @@
 IFLOU'S Eats 
 
-
+assets/img/Capture d'écran 2024-07-10 165017.png
 
 iFlou's Eats makes it easy for people to find, buy, and enjoy real Moroccan food. Our platform offers many traditional Moroccan dishes with descriptions, user reviews, prices, and delivery options. Our goal is to make it simple for everyone to buy and enjoy Moroccan food, whether they love food or just want a nice meal.
 
