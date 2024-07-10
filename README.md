@@ -1,7 +1,7 @@
-# Responsive-Restaurant-Website-Design-Project
+IFLOU'S Eats 
 
-![download (3)](https://user-images.githubusercontent.com/71099757/131264759-65cc66fa-b925-4ccf-9720-3724fc245fcf.png)
 
-<p style="text-align: justify;"  align="center">Create Complete Responsive Restaurant Website Using HTML and CSS JavaScript. And It has been created Website Using HTML ,CSS &amp; Javascript.</p>
 
-![download (4)](https://user-images.githubusercontent.com/71099757/131264764-0108b87d-c944-44e1-8e13-9b0412f90a98.png)
+iFlou's Eats makes it easy for people to find, buy, and enjoy real Moroccan food. Our platform offers many traditional Moroccan dishes with descriptions, user reviews, prices, and delivery options. Our goal is to make it simple for everyone to buy and enjoy Moroccan food, whether they love food or just want a nice meal.
+
+iFlou's Eats is for anyone who wants to buy Moroccan food, whether for a special occasion, to learn about a new culture, or just to have a tasty meal. We especially focus on young people in cities who use technology to find new food experiences. I wanted to work on a project that uses technology to solve a daily problem and make people’s food experiences better. As someone who loves both technology and food, making an app like this was a great chance to use my programming skills and explore my interests.
